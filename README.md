@@ -53,3 +53,7 @@ func Gorillaz() string {
 	return "Clint Eastwood!"
 }
 ```
+
+## License
+
+[MIT](LICENSE)
